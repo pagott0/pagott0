@@ -2,7 +2,7 @@
 
 My name is Enzo Pagotto. I'm a brazilian Information Systems student at University of São Paulo (USP - ICMC).
 
-- 💻 I'm a backend and mobile development enthusiast.
+- 💻 I'm a front-end and mobile development enthusiast.
 - ⌨️ I also enjoy solving algorithms and data structures related problems.
 - 👨‍🎓 Always learning.
 <!--
