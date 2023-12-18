@@ -5,6 +5,7 @@ My name is Enzo Pagotto. I'm a brazilian Information Systems student at Universi
 - 💻 I'm a front-end and mobile development enthusiast.
 - ⌨️ I also enjoy solving algorithms and data structures related problems.
 - 👨‍🎓 Always learning.
+- 💰 I’m currently building Hero Invest with React & React Native
 <!--
 **pagott0/pagott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
