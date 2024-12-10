@@ -1,6 +1,6 @@
 ### Hello 👋 Welcome to my GitHub.
 
-My name is Enzo Pagotto. I'm a brazilian Information Systems student at University of São Paulo (USP - ICMC).
+My name is Enzo Pagotto. I'm a brazilian Information Systems student at University of São Paulo (USP - ICMC) and a founding engineer at a fintech startup invested by the global venture capitals Antler and Kiara Capital
 
 - 💻 I'm a front-end and mobile development enthusiast.
 - ⌨️ I also enjoy solving algorithms and data structures related problems.
