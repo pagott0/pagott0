@@ -3,7 +3,7 @@
 - 💻 Founding software engineer at Black Belt Finance, fintech startup invested by two global venture capitals.
 - 👨‍🎓 Information Systems Undergraduate student at University of São Paulo (USP) - ICMC
 - ⚙️ React, React Native, Next.JS, TypeScript, Python, PostgresSQL, Google Cloud Platform (GCP)
-- 🧠 Engineer, designer, creative, traveler and a passionate problem solver who loves to create new things.
+- 🧠 Engineer, designer, creative, traveler and a passionate problem solver who loves to create new things and solve hard problems.
 <!--
 **pagott0/pagott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
