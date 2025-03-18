@@ -1,10 +1,9 @@
 ### Hello 👋 Welcome to my GitHub.
 
-My name is Enzo Pagotto. I'm a brazilian Information Systems student at University of São Paulo (USP - ICMC) and a founding engineer at a fintech startup invested by the global venture capitals Antler and Kiara Capital
-
-- 💻 I'm a front-end and mobile development enthusiast.
-- ⌨️ I also enjoy solving algorithms and data structures related problems.
-- 👨‍🎓 Always learning.
+- 💻 Founding software engineer at Black Belt Finance, fintech startup invested by two global venture capitals.
+- 👨‍🎓 Information Systems Undergraduate student at University of São Paulo (USP) - ICMC
+- ⚙️ React, React Native, Next.JS, TypeScript, Python, PostgresSQL, Google Cloud Platform (GCP)
+- 🧠 Engineer, designer, creative, traveler and a passionate problem solver who loves to create new things.
 <!--
 **pagott0/pagott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
